@@ -1,0 +1,4 @@
+Secure Decentralized Aggregation to Prevent Membership Privacy Leakage Sharing: New Attacks and Countermeasure
+
+
+leakage_of_authorization
